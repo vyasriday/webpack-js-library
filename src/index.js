@@ -1,5 +1,5 @@
 import capitalize from './capitalize';
 import unique from './unique';
-import distinctLongestString from './distinctString';
+import longestDistinctSubstring from './distinctString';
 
-export { capitalize, unique, distinctLongestString };
+export { capitalize, unique, longestDistinctSubstring };
