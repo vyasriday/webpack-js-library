@@ -8,7 +8,9 @@
 
 ### 3. npm run build
 
-There is a index.js generated inside dist directory. Add it as an external script to any of your projects.
-All methods are available on $
+*There is a index.js generated inside dist directory. Add it as an external script to any of your projects.*
+*Any method can be accessed on $ in in your code after embedding the bundled file.*
 
-For example you can use $.capitalize in your javascript to use capitalize method
+**For example you can use $.capitalize in your javascript to use capitalize method**
+
+**The babelrc is used by jest for code transpilation.**
